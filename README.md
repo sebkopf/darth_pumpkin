@@ -3,7 +3,7 @@ Code and wiring for proximity triggered illuminated Darth Vader pumpkin
 
 #### In action
 
-(Darth Pumpkin in action)[https://db.tt/bhNeaP6b]
+[Darth Pumpkin in action](https://db.tt/bhNeaP6b)
 
 #### Wiring diagram
 
