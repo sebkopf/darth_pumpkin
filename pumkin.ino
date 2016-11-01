@@ -9,8 +9,8 @@
 #include "pitches.h"
 
 // range finder
-#define TRIGGER_PIN D0
-#define ECHO_PIN D1
+#define TRIGGER_PIN D1
+#define ECHO_PIN D0
 #define READ_INTERVAL 50 // how often to query sensor [ms] (limited by speed of reading)
 #define ALARM_DISTANCE 400 // distance for activation [cm]
 #define TRIGGER_TIME 500 // debounce [ms]
